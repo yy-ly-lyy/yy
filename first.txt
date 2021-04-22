@@ -1,5 +1,0 @@
-git init
-git add first.txt
-git commit -m "test"
-git remote add origin https://github.com/yy-ly-lyy/yy.git
-git push -u origin master
